@@ -1,1 +1,1 @@
-# wDKASH Smart Contract Code
+# DKASH Token Smart Contract
